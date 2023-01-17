@@ -1,0 +1,10 @@
+canvas{
+    border: 1px solid white;
+    background-color: red;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
